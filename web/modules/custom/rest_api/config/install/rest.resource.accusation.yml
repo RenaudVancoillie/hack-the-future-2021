@@ -1,0 +1,9 @@
+id: accusation
+plugin_id: guess
+granularity: method
+configuration:
+  POST:
+    supported_formats:
+      - json
+    supported_auth:
+      - basic_auth
